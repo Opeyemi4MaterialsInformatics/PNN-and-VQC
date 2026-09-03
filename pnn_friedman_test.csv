@@ -1,0 +1,2 @@
+Test,Comparison,Statistic,p-value,Significant at 0.05
+Friedman,PNN accuracy across all mesh-error levels,257.1194085027727,1.2335751750013517e-52,True

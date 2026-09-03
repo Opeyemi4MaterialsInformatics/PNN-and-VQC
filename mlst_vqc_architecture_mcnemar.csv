@@ -1,0 +1,3 @@
+Comparison,"A correct, B wrong","A wrong, B correct",p-value
+4-qubit VQC shallow vs 4-qubit VQC alternative,26,21,0.5600646295802106
+4-qubit VQC alternative vs PNN 4-mode ideal,7,38,3.1213096463034162e-06

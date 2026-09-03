@@ -1,0 +1,5 @@
+Comparison,Median accuracy difference (PNN - comparator),Mean accuracy difference (PNN - comparator),Wilcoxon statistic,Raw p-value,Holm-adjusted p-value,Significant after Holm correction
+Logistic regression 4D vs MZI-mesh-inspired PNN,0.09500000000000003,0.11100000000000003,0.0,0.001953125,0.0078125,True
+RBF-SVM 4D vs MZI-mesh-inspired PNN,-0.05999999999999994,-0.059,0.0,0.001953125,0.0078125,True
+Random Forest 4D vs MZI-mesh-inspired PNN,-0.044999999999999984,-0.04,0.0,0.00390625,0.0078125,True
+Small MLP 4D vs MZI-mesh-inspired PNN,-0.07,-0.06999999999999998,0.0,0.001953125,0.0078125,True

@@ -1,0 +1,3 @@
+Comparison,"A correct, B wrong","A wrong, B correct",p-value
+LogReg 2D vs VQC 2-qubit ideal,22,28,0.47988766169832786
+LogReg 4D vs VQC 4-qubit ideal,24,15,0.19959086691960698
