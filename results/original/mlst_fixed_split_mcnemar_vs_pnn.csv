@@ -1,0 +1,6 @@
+Comparison,"A correct, B wrong","A wrong, B correct",p-value,Significant at 0.05
+Logistic regression 4D vs PNN 4-mode ideal,2,19,0.00022125244140625,True
+RBF-SVM 4D vs PNN 4-mode ideal,5,2,0.453125,False
+Random Forest 4D vs PNN 4-mode ideal,4,3,1.0,False
+Small MLP 4D vs PNN 4-mode ideal,6,0,0.03125,True
+VQC 4-qubit ideal vs PNN 4-mode ideal,9,35,0.00010604466626773501,True

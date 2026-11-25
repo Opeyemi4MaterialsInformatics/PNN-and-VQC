@@ -1,0 +1,2 @@
+Model,Accuracy,95% CI lower,95% CI upper,Correct,Test N,MZI-like elements,Trainable numerical parameters
+4-mode MZI-mesh-inspired PNN,0.87,0.7901964855992357,0.9224283257275948,87,100,6,14

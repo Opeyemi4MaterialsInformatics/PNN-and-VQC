@@ -1,0 +1,8 @@
+Test,Comparison,Statistic,p-value,Significant at 0.05
+Exact McNemar,LogReg 2D vs VQC 2-qubit ideal,,0.47988766169832786,False
+Exact McNemar,LogReg 4D vs VQC 4-qubit ideal,,0.19959086691960698,False
+Wilcoxon signed-rank,2-qubit vs 4-qubit at 4096 shots,0.0,0.001953125,True
+Wilcoxon signed-rank,2-qubit: 64 vs 4096 shots,1.0,0.03125,True
+Wilcoxon signed-rank,4-qubit: 64 vs 4096 shots,12.0,0.25390625,False
+Friedman,2-qubit accuracy across all shot counts,12.681818181818185,0.048376346857088845,True
+Friedman,4-qubit accuracy across all shot counts,8.808000000000016,0.1846674254857924,False

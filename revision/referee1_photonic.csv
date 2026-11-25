@@ -1,0 +1,251 @@
+draw,scenario,frozen_accuracy,readout_refit_accuracy
+1,ideal,0.8702,0.8702
+1,couplers only,0.8712,0.8719
+1,arm loss only,0.8496,0.87
+1,couplers and arm loss,0.8506,0.8699
+1,combined with electronics,0.8555,0.8681
+2,ideal,0.8702,0.8702
+2,couplers only,0.8651,0.8662
+2,arm loss only,0.8396,0.8713
+2,couplers and arm loss,0.8377,0.869
+2,combined with electronics,0.8346,0.861
+3,ideal,0.8702,0.8702
+3,couplers only,0.867,0.8693
+3,arm loss only,0.8608,0.8731
+3,couplers and arm loss,0.8552,0.8729
+3,combined with electronics,0.8622,0.8679
+4,ideal,0.8702,0.8702
+4,couplers only,0.8671,0.8673
+4,arm loss only,0.858,0.8724
+4,couplers and arm loss,0.8543,0.8694
+4,combined with electronics,0.8364,0.8645
+5,ideal,0.8702,0.8702
+5,couplers only,0.8669,0.8672
+5,arm loss only,0.848,0.8706
+5,couplers and arm loss,0.849,0.8683
+5,combined with electronics,0.8395,0.8622
+6,ideal,0.8702,0.8702
+6,couplers only,0.8629,0.8647
+6,arm loss only,0.8565,0.8732
+6,couplers and arm loss,0.8512,0.8663
+6,combined with electronics,0.8524,0.8611
+7,ideal,0.8702,0.8702
+7,couplers only,0.871,0.8701
+7,arm loss only,0.8428,0.8714
+7,couplers and arm loss,0.8458,0.8708
+7,combined with electronics,0.8353,0.8608
+8,ideal,0.8702,0.8702
+8,couplers only,0.8631,0.8651
+8,arm loss only,0.8476,0.868
+8,couplers and arm loss,0.842,0.8632
+8,combined with electronics,0.8411,0.8562
+9,ideal,0.8702,0.8702
+9,couplers only,0.8701,0.8689
+9,arm loss only,0.8478,0.8705
+9,couplers and arm loss,0.856,0.869
+9,combined with electronics,0.8502,0.8624
+10,ideal,0.8702,0.8702
+10,couplers only,0.8657,0.8662
+10,arm loss only,0.8456,0.8694
+10,couplers and arm loss,0.8483,0.8632
+10,combined with electronics,0.8525,0.8601
+11,ideal,0.8702,0.8702
+11,couplers only,0.8609,0.8611
+11,arm loss only,0.8341,0.8701
+11,couplers and arm loss,0.8302,0.8623
+11,combined with electronics,0.816,0.8566
+12,ideal,0.8702,0.8702
+12,couplers only,0.8696,0.8694
+12,arm loss only,0.8464,0.8708
+12,couplers and arm loss,0.851,0.8691
+12,combined with electronics,0.8348,0.8609
+13,ideal,0.8702,0.8702
+13,couplers only,0.8671,0.8671
+13,arm loss only,0.8468,0.8704
+13,couplers and arm loss,0.8473,0.8682
+13,combined with electronics,0.8486,0.8604
+14,ideal,0.8702,0.8702
+14,couplers only,0.868,0.8672
+14,arm loss only,0.8562,0.8711
+14,couplers and arm loss,0.8538,0.8678
+14,combined with electronics,0.8398,0.8604
+15,ideal,0.8702,0.8702
+15,couplers only,0.8697,0.8699
+15,arm loss only,0.8555,0.873
+15,couplers and arm loss,0.8601,0.8715
+15,combined with electronics,0.8624,0.8698
+16,ideal,0.8702,0.8702
+16,couplers only,0.8675,0.8675
+16,arm loss only,0.8587,0.8755
+16,couplers and arm loss,0.8559,0.8702
+16,combined with electronics,0.8532,0.8687
+17,ideal,0.8702,0.8702
+17,couplers only,0.8681,0.8688
+17,arm loss only,0.8584,0.8715
+17,couplers and arm loss,0.858,0.8692
+17,combined with electronics,0.8558,0.868
+18,ideal,0.8702,0.8702
+18,couplers only,0.87,0.8689
+18,arm loss only,0.8589,0.8761
+18,couplers and arm loss,0.8592,0.8733
+18,combined with electronics,0.872,0.8764
+19,ideal,0.8702,0.8702
+19,couplers only,0.8671,0.8671
+19,arm loss only,0.8519,0.8707
+19,couplers and arm loss,0.8455,0.8683
+19,combined with electronics,0.8351,0.8567
+20,ideal,0.8702,0.8702
+20,couplers only,0.8675,0.8676
+20,arm loss only,0.8567,0.8733
+20,couplers and arm loss,0.8538,0.8716
+20,combined with electronics,0.8359,0.8663
+21,ideal,0.8702,0.8702
+21,couplers only,0.8674,0.8673
+21,arm loss only,0.8513,0.8683
+21,couplers and arm loss,0.8496,0.8679
+21,combined with electronics,0.8487,0.8593
+22,ideal,0.8702,0.8702
+22,couplers only,0.8617,0.8659
+22,arm loss only,0.8475,0.8721
+22,couplers and arm loss,0.8384,0.8679
+22,combined with electronics,0.829,0.8617
+23,ideal,0.8702,0.8702
+23,couplers only,0.871,0.8715
+23,arm loss only,0.8591,0.8719
+23,couplers and arm loss,0.8605,0.8719
+23,combined with electronics,0.8607,0.8686
+24,ideal,0.8702,0.8702
+24,couplers only,0.8667,0.8658
+24,arm loss only,0.8586,0.8726
+24,couplers and arm loss,0.8578,0.8696
+24,combined with electronics,0.8401,0.8662
+25,ideal,0.8702,0.8702
+25,couplers only,0.8677,0.8669
+25,arm loss only,0.8418,0.871
+25,couplers and arm loss,0.8425,0.8681
+25,combined with electronics,0.8444,0.8637
+26,ideal,0.8702,0.8702
+26,couplers only,0.8678,0.8688
+26,arm loss only,0.8536,0.8745
+26,couplers and arm loss,0.8502,0.8715
+26,combined with electronics,0.8528,0.8666
+27,ideal,0.8702,0.8702
+27,couplers only,0.866,0.8661
+27,arm loss only,0.8414,0.8711
+27,couplers and arm loss,0.8415,0.867
+27,combined with electronics,0.8264,0.8569
+28,ideal,0.8702,0.8702
+28,couplers only,0.8678,0.8668
+28,arm loss only,0.8437,0.8682
+28,couplers and arm loss,0.847,0.8635
+28,combined with electronics,0.8472,0.8572
+29,ideal,0.8702,0.8702
+29,couplers only,0.8651,0.8627
+29,arm loss only,0.8455,0.8707
+29,couplers and arm loss,0.8437,0.865
+29,combined with electronics,0.8303,0.8574
+30,ideal,0.8702,0.8702
+30,couplers only,0.8657,0.8669
+30,arm loss only,0.8502,0.8722
+30,couplers and arm loss,0.8393,0.8692
+30,combined with electronics,0.8525,0.8613
+31,ideal,0.8702,0.8702
+31,couplers only,0.864,0.8638
+31,arm loss only,0.8505,0.8712
+31,couplers and arm loss,0.8495,0.8647
+31,combined with electronics,0.839,0.8596
+32,ideal,0.8702,0.8702
+32,couplers only,0.8623,0.8661
+32,arm loss only,0.8528,0.8713
+32,couplers and arm loss,0.8453,0.8685
+32,combined with electronics,0.8466,0.8617
+33,ideal,0.8702,0.8702
+33,couplers only,0.8614,0.8614
+33,arm loss only,0.8464,0.8753
+33,couplers and arm loss,0.8379,0.8657
+33,combined with electronics,0.8428,0.8632
+34,ideal,0.8702,0.8702
+34,couplers only,0.872,0.8716
+34,arm loss only,0.8582,0.8727
+34,couplers and arm loss,0.8592,0.8739
+34,combined with electronics,0.8475,0.8658
+35,ideal,0.8702,0.8702
+35,couplers only,0.8703,0.8702
+35,arm loss only,0.846,0.8693
+35,couplers and arm loss,0.8469,0.869
+35,combined with electronics,0.8513,0.8668
+36,ideal,0.8702,0.8702
+36,couplers only,0.8625,0.8636
+36,arm loss only,0.8556,0.8725
+36,couplers and arm loss,0.8532,0.8663
+36,combined with electronics,0.8387,0.8632
+37,ideal,0.8702,0.8702
+37,couplers only,0.8662,0.8684
+37,arm loss only,0.8589,0.8736
+37,couplers and arm loss,0.8543,0.873
+37,combined with electronics,0.8661,0.8708
+38,ideal,0.8702,0.8702
+38,couplers only,0.8671,0.8669
+38,arm loss only,0.8565,0.8686
+38,couplers and arm loss,0.8558,0.8655
+38,combined with electronics,0.8561,0.8588
+39,ideal,0.8702,0.8702
+39,couplers only,0.8684,0.8661
+39,arm loss only,0.8529,0.8696
+39,couplers and arm loss,0.8487,0.8656
+39,combined with electronics,0.8336,0.8555
+40,ideal,0.8702,0.8702
+40,couplers only,0.8675,0.8668
+40,arm loss only,0.849,0.8722
+40,couplers and arm loss,0.8495,0.8691
+40,combined with electronics,0.8433,0.8642
+41,ideal,0.8702,0.8702
+41,couplers only,0.8583,0.8655
+41,arm loss only,0.8524,0.876
+41,couplers and arm loss,0.8321,0.8702
+41,combined with electronics,0.8163,0.8652
+42,ideal,0.8702,0.8702
+42,couplers only,0.8605,0.8604
+42,arm loss only,0.8446,0.8701
+42,couplers and arm loss,0.841,0.8618
+42,combined with electronics,0.8296,0.8533
+43,ideal,0.8702,0.8702
+43,couplers only,0.8685,0.8676
+43,arm loss only,0.8528,0.8718
+43,couplers and arm loss,0.8542,0.8692
+43,combined with electronics,0.8492,0.8628
+44,ideal,0.8702,0.8702
+44,couplers only,0.8659,0.8658
+44,arm loss only,0.8568,0.8721
+44,couplers and arm loss,0.8582,0.8674
+44,combined with electronics,0.8674,0.8678
+45,ideal,0.8702,0.8702
+45,couplers only,0.8676,0.8681
+45,arm loss only,0.8552,0.8708
+45,couplers and arm loss,0.8555,0.8691
+45,combined with electronics,0.8553,0.8641
+46,ideal,0.8702,0.8702
+46,couplers only,0.8738,0.8733
+46,arm loss only,0.8529,0.8719
+46,couplers and arm loss,0.8562,0.8744
+46,combined with electronics,0.8569,0.8652
+47,ideal,0.8702,0.8702
+47,couplers only,0.8631,0.8622
+47,arm loss only,0.8427,0.8735
+47,couplers and arm loss,0.8435,0.8646
+47,combined with electronics,0.8419,0.8607
+48,ideal,0.8702,0.8702
+48,couplers only,0.8614,0.8607
+48,arm loss only,0.8485,0.8735
+48,couplers and arm loss,0.8404,0.866
+48,combined with electronics,0.8396,0.8599
+49,ideal,0.8702,0.8702
+49,couplers only,0.8672,0.8684
+49,arm loss only,0.8592,0.8736
+49,couplers and arm loss,0.8525,0.8711
+49,combined with electronics,0.8685,0.8709
+50,ideal,0.8702,0.8702
+50,couplers only,0.8721,0.872
+50,arm loss only,0.8525,0.8726
+50,couplers and arm loss,0.8534,0.8736
+50,combined with electronics,0.8433,0.8683

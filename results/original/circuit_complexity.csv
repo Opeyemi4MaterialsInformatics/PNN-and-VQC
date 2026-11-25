@@ -1,0 +1,3 @@
+Model,Flat depth,Flat CX,Transpiled depth,Transpiled CX
+2-qubit VQC,24,8,48,8
+4-qubit VQC (shallow),21,15,31,15

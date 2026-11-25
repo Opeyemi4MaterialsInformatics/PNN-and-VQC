@@ -1,0 +1,4 @@
+Model,Representation,Ideal/test accuracy,95% CI,Hardware-aware stochastic factor,Complexity proxy
+Logistic regression 4D,4 PCA components,0.7,"[0.604, 0.781]",None in this numerical baseline,Linear classifier
+MZI-mesh-inspired PNN,4 optical modes / 4 PCA components,0.87,"[0.790, 0.922]",MZI phase/coupling parameter error,6 MZI-like elements; 14 trainable numerical parameters
+VQC 4-qubit ideal,4 qubits / 4 PCA components,0.61,"[0.512, 0.700]",Finite-shot sampling and quantum hardware noise,transpiled depth 31; 15 CX

@@ -1,0 +1,101 @@
+seed,model,train_accuracy,original_split_accuracy,fresh_accuracy,hyperparameters,model_size
+7,PNN,0.8833333333333333,0.87,0.8702,,14
+7,Original logistic,0.7933333333333333,0.7,0.7886,,5
+7,Logistic,0.8,0.7,0.7895,{'logisticregression__C': 0.1},5
+7,Traceless quadratic,0.9033333333333333,0.86,0.8986,{'logisticregression__C': 1000},10
+7,General quadratic,0.9366666666666666,0.87,0.933,{'logisticregression__C': 10000},15
+7,QDA,0.9266666666666666,0.9,0.9393,{},29
+7,MLP 4-2-1,0.96,0.9,0.9564,"{'mlpclassifier__alpha': 0.01, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+7,RBF-SVM,0.9566666666666667,0.87,0.9351,"{'svc__C': 10000, 'svc__gamma': 0.01}",58 support vectors
+7,Random forest,1.0,0.88,0.9159,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 1}",13626 tree nodes
+7,Small MLP,1.0,0.92,0.9493,"{'mlpclassifier__alpha': 0.01, 'mlpclassifier__hidden_layer_sizes': (16,)}",97
+17,PNN,0.9,0.89,0.8863,,14
+17,Original logistic,0.79,0.74,0.7835,,5
+17,Logistic,0.79,0.74,0.7837,{'logisticregression__C': 10},5
+17,Traceless quadratic,0.91,0.93,0.9045,{'logisticregression__C': 100},10
+17,General quadratic,0.98,0.96,0.9288,{'logisticregression__C': 10000},15
+17,QDA,0.96,0.95,0.9434,{},29
+17,MLP 4-2-1,0.9866666666666667,0.96,0.9575,"{'mlpclassifier__alpha': 0.01, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+17,RBF-SVM,0.9833333333333333,0.96,0.9275,"{'svc__C': 10000, 'svc__gamma': 0.01}",41 support vectors
+17,Random forest,1.0,0.89,0.9148,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': None, 'randomforestclassifier__min_samples_leaf': 1}",10148 tree nodes
+17,Small MLP,0.9966666666666667,0.98,0.9637,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (8,)}",49
+27,PNN,0.8633333333333333,0.9,0.8873,,14
+27,Original logistic,0.8066666666666666,0.83,0.7834,,5
+27,Logistic,0.8033333333333333,0.82,0.7869,{'logisticregression__C': 0.1},5
+27,Traceless quadratic,0.92,0.88,0.9012,{'logisticregression__C': 10000},10
+27,General quadratic,0.9466666666666667,0.97,0.9471,{'logisticregression__C': 10000},15
+27,QDA,0.95,0.94,0.9438,{},29
+27,MLP 4-2-1,0.86,0.85,0.8702,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+27,RBF-SVM,0.9766666666666667,0.95,0.9463,"{'svc__C': 100, 'svc__gamma': 0.1}",65 support vectors
+27,Random forest,0.99,0.94,0.932,"{'randomforestclassifier__max_depth': 8, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 1}",11290 tree nodes
+27,Small MLP,0.9966666666666667,0.99,0.9687,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (8,)}",49
+37,PNN,0.8933333333333333,0.88,0.8833,,14
+37,Original logistic,0.78,0.67,0.7962,,5
+37,Logistic,0.78,0.67,0.7962,{'logisticregression__C': 1},5
+37,Traceless quadratic,0.95,0.93,0.9067,{'logisticregression__C': 1000},10
+37,General quadratic,0.9633333333333334,0.95,0.9276,{'logisticregression__C': 10000},15
+37,QDA,0.95,0.99,0.9428,{},29
+37,MLP 4-2-1,0.9166666666666666,0.85,0.8722,"{'mlpclassifier__alpha': 0.0001, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+37,RBF-SVM,0.9833333333333333,0.96,0.9308,"{'svc__C': 100, 'svc__gamma': 'scale'}",44 support vectors
+37,Random forest,1.0,0.94,0.9258,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 1}",12292 tree nodes
+37,Small MLP,1.0,0.96,0.947,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (8,)}",49
+47,PNN,0.89,0.9,0.8832,,14
+47,Original logistic,0.82,0.83,0.791,,5
+47,Logistic,0.82,0.83,0.791,{'logisticregression__C': 1},5
+47,Traceless quadratic,0.9366666666666666,0.9,0.9047,{'logisticregression__C': 100},10
+47,General quadratic,0.95,0.93,0.9174,{'logisticregression__C': 1000},15
+47,QDA,0.95,0.97,0.9505,{},29
+47,MLP 4-2-1,0.8966666666666666,0.86,0.8744,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+47,RBF-SVM,0.9866666666666667,0.98,0.9294,"{'svc__C': 100, 'svc__gamma': 'scale'}",50 support vectors
+47,Random forest,1.0,0.93,0.9319,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 1}",13654 tree nodes
+47,Small MLP,1.0,0.99,0.9593,"{'mlpclassifier__alpha': 0.001, 'mlpclassifier__hidden_layer_sizes': (16, 8)}",225
+57,PNN,0.8866666666666667,0.9,0.8721,,14
+57,Original logistic,0.8,0.8,0.7855,,5
+57,Logistic,0.8033333333333333,0.8,0.7852,{'logisticregression__C': 10},5
+57,Traceless quadratic,0.9033333333333333,0.91,0.9019,{'logisticregression__C': 100},10
+57,General quadratic,0.94,0.96,0.9408,{'logisticregression__C': 10000},15
+57,QDA,0.9566666666666667,0.98,0.9447,{},29
+57,MLP 4-2-1,0.9866666666666667,0.93,0.9608,"{'mlpclassifier__alpha': 0.001, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+57,RBF-SVM,0.9533333333333334,0.97,0.9421,"{'svc__C': 10000, 'svc__gamma': 0.01}",51 support vectors
+57,Random forest,1.0,0.95,0.9248,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 1}",14618 tree nodes
+57,Small MLP,0.99,0.96,0.9678,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (8,)}",49
+67,PNN,0.89,0.91,0.8793,,14
+67,Original logistic,0.8033333333333333,0.82,0.7903,,5
+67,Logistic,0.8066666666666666,0.83,0.7911,{'logisticregression__C': 0.1},5
+67,Traceless quadratic,0.91,0.92,0.8932,{'logisticregression__C': 100},10
+67,General quadratic,0.9533333333333334,0.95,0.9298,{'logisticregression__C': 10000},15
+67,QDA,0.9366666666666666,0.94,0.9379,{},29
+67,MLP 4-2-1,0.8,0.83,0.7895,"{'mlpclassifier__alpha': 1, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+67,RBF-SVM,0.9566666666666667,0.96,0.9363,"{'svc__C': 100, 'svc__gamma': 'scale'}",63 support vectors
+67,Random forest,1.0,0.96,0.9331,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': None, 'randomforestclassifier__min_samples_leaf': 1}",13398 tree nodes
+67,Small MLP,1.0,0.96,0.9501,"{'mlpclassifier__alpha': 0.001, 'mlpclassifier__hidden_layer_sizes': (8,)}",49
+77,PNN,0.87,0.85,0.8742,,14
+77,Original logistic,0.7766666666666666,0.76,0.7887,,5
+77,Logistic,0.7766666666666666,0.76,0.7887,{'logisticregression__C': 1},5
+77,Traceless quadratic,0.9266666666666666,0.9,0.8985,{'logisticregression__C': 1000},10
+77,General quadratic,0.9566666666666667,0.91,0.9338,{'logisticregression__C': 10000},15
+77,QDA,0.9566666666666667,0.92,0.9465,{},29
+77,MLP 4-2-1,0.89,0.83,0.8615,"{'mlpclassifier__alpha': 0.001, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+77,RBF-SVM,0.97,0.93,0.9424,"{'svc__C': 10000, 'svc__gamma': 0.01}",50 support vectors
+77,Random forest,0.99,0.9,0.927,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 2}",11962 tree nodes
+77,Small MLP,0.9866666666666667,0.96,0.9758,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (8,)}",49
+87,PNN,0.9133333333333333,0.84,0.8858,,14
+87,Original logistic,0.7966666666666666,0.7,0.7909,,5
+87,Logistic,0.7966666666666666,0.7,0.7909,{'logisticregression__C': 1},5
+87,Traceless quadratic,0.95,0.91,0.9093,{'logisticregression__C': 10000},10
+87,General quadratic,0.97,0.92,0.9326,{'logisticregression__C': 10000},15
+87,QDA,0.9466666666666667,0.99,0.9458,{},29
+87,MLP 4-2-1,0.9033333333333333,0.84,0.871,"{'mlpclassifier__alpha': 0.0001, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+87,RBF-SVM,0.9766666666666667,0.91,0.9368,"{'svc__C': 10000, 'svc__gamma': 0.01}",42 support vectors
+87,Random forest,1.0,0.89,0.928,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': 'sqrt', 'randomforestclassifier__min_samples_leaf': 1}",13370 tree nodes
+87,Small MLP,1.0,0.91,0.9552,"{'mlpclassifier__alpha': 0.001, 'mlpclassifier__hidden_layer_sizes': (16,)}",97
+97,PNN,0.88,0.88,0.8766,,14
+97,Original logistic,0.82,0.86,0.789,,5
+97,Logistic,0.82,0.86,0.789,{'logisticregression__C': 1},5
+97,Traceless quadratic,0.8933333333333333,0.91,0.9129,{'logisticregression__C': 1000},10
+97,General quadratic,0.94,0.94,0.94,{'logisticregression__C': 10000},15
+97,QDA,0.9466666666666667,0.93,0.9449,{},29
+97,MLP 4-2-1,0.8233333333333334,0.85,0.7899,"{'mlpclassifier__alpha': 0.0001, 'mlpclassifier__hidden_layer_sizes': (2,)}",13
+97,RBF-SVM,0.9566666666666667,0.93,0.9501,"{'svc__C': 10000, 'svc__gamma': 0.01}",62 support vectors
+97,Random forest,1.0,0.91,0.9286,"{'randomforestclassifier__max_depth': None, 'randomforestclassifier__max_features': None, 'randomforestclassifier__min_samples_leaf': 1}",12992 tree nodes
+97,Small MLP,0.9966666666666667,0.98,0.9754,"{'mlpclassifier__alpha': 0.1, 'mlpclassifier__hidden_layer_sizes': (8,)}",49

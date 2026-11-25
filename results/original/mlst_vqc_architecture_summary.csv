@@ -1,0 +1,3 @@
+Model,Ideal accuracy,4096-shot mean accuracy,4096-shot SD,Flat depth,Flat CX,Transpiled depth,Transpiled CX
+4-qubit VQC shallow,0.61,0.6100000000000001,1.1702778228589004e-16,21,15,31,15
+4-qubit VQC alternative,0.56,0.5660000000000001,0.009660917830792915,27,18,41,18
